@@ -1,0 +1,15 @@
+			#board div {
+				border-width: 0px;
+				height: 40px;
+				width: 40px;
+				float: left;
+			}
+			#board {
+				margin-left: 20px;
+				border: 1px solid #000;
+				height: 320px;
+				width: 320px;
+			}
+			.black {
+				background-color: #000;
+			}
